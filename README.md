@@ -10,10 +10,12 @@ MSc in ME
 - ME521 Analytical Methods in Engineering
 - ME536 Design of Intelligent Machines
 - AEE554 Orbital Mechanics
+
 MSc in ROB
 - EE498 Control System Design and Simulation
 - EE584 Machine Vision
-Minort in Mechatronics
+
+Minor in Mechatronics
 - EE559 Intelligent Control
 - CENG443 Object Oriented Programming Languages
 
