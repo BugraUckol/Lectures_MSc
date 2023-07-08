@@ -1,4 +1,4 @@
-# Lectures_MSc 2021-2023
+# Lectures 2021-2023
 Courses I've taken during my Master's Education at METU
 
 I've started with MSc in ME then transferred to MSc in ROB
